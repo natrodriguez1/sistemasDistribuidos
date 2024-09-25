@@ -1,0 +1,22 @@
+{
+  "name": "sisdis",
+  "version": "1.0.0",
+  "description": "proyectito ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natrodriguez1/sistemasDistribuidos.git"
+  },
+  "keywords": [
+    "sisDis"
+  ],
+  "author": "nat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natrodriguez1/sistemasDistribuidos/issues"
+  },
+  "homepage": "https://github.com/natrodriguez1/sistemasDistribuidos#readme"
+}
